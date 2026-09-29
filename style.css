@@ -2,6 +2,7 @@ body {
     background-color: #f4f1ea;
     color: #222222;
     font-family: Arial, sans-serif;
+    margin: 0;
 }
 
 header {
@@ -52,16 +53,16 @@ figcaption {
 }
 
 button {
-    background-color:darkgreen
-    color:#f4f1ea
+    background-color: darkgreen;
+    color: #f4f1ea;
     border: none;
     padding: 10px 15px;
-    border; 8px;
-    cursor:pointer;
+    border: 8px;
+    cursor: pointer;
 }
 
 button:hover {
-    background-color:aquamarine
+    background-color: darkgreen;
 }
 
 
