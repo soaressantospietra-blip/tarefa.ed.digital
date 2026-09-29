@@ -50,3 +50,23 @@ figcaption {
     color: #555555;
     margin-top: 8px;
 }
+
+button {
+    background-color:darkgreen
+    color:#f4f1ea
+    border: none;
+    padding: 10px 15px;
+    border; 8px;
+    cursor:pointer;
+}
+
+button:hover {
+    background-color:aquamarine
+}
+
+
+.curtir {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+}
